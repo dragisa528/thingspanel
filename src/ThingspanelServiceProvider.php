@@ -13,7 +13,6 @@ class ThingspanelServiceProvider extends PackageServiceProvider
         /*
          * This class is a Package Service Provider
          *
-         * More info: https://github.com/spatie/laravel-package-tools
          */
         $package
             ->name('thingspanel')
