@@ -1,0 +1,5 @@
+<?php
+
+use Thingspanel\Thingspanel\Tests\TestCase;
+
+uses(TestCase::class)->in(__DIR__);
